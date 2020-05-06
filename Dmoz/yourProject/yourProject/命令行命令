@@ -1,0 +1,1 @@
+scrapy crawl xxx -o xxx.json
